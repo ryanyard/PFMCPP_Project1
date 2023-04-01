@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: car
+//  action 1: move
+car.move();
+//  action 2: turn
+car.turn();
+//  action 3: stop
+car.stop();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: dog
+//  action 1: bark
+dog.bark();
+//  action 2: eat
+dog.eat();
+//  action 3: sleep
+dog.sleep();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: body
+//  action 1: dance
+body.dance();
+//  action 2: run
+body.run();
+//  action 3: jump
+body.jump();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: sword
+//  action 1: cut
+sword.cut();
+//  action 2: slice
+sword.slice();
+//  action 3: break
+sword.break();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: phone
+//  action 1: call
+phone.call();
+//  action 2: beep
+phone.beep();
+//  action 3: text
+phone.text();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: plant
+//  action 1: grow
+plant.grow();
+//  action 2: bloom
+plant.bloom();
+//  action 3: die
+plant.die();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: guitar
+//  action 1: play
+guitar.play();
+//  action 2: strum
+guitar.strum();
+//  action 3: practice
+guitar.practice();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: dishwasher
+//  action 1: clean
+dishwasher.clean();
+//  action 2: load
+dishwasher.load();
+//  action 3: unload
+dishwasher.unload();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: keyboard
+//  action 1: type
+keyboard.type();
+//  action 2: enter
+keyboard.enter();
+//  action 3: delete
+keyboard.delete();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: glasses
+//  action 1: wear
+glasses.wear();
+//  action 2: clean
+glasses.clean();
+//  action 3: help
+glasses.help();
 
 
 #endif
