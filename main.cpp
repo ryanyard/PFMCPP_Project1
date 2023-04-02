@@ -118,11 +118,11 @@ dishwasher.unload();
 //  9)
 //  Noun: keyboard
 //  action 1: type
-keyboard.type();
+keyboardUser.type();
 //  action 2: enter
-keyboard.enter();
+keyboardUser.enter();
 //  action 3: delete
-keyboard.delete();
+keyboardUser.delete();
 //  10)
 //  Noun: glasses
 //  action 1: wear
@@ -133,16 +133,45 @@ glasses.clean();
 glasses.help();
 
 
+// 11)
+// Noun: chair
+// action 1: swivel
+chair.swivel();
+// action 2: tilt
+chair.tilt();
+// action 3: roll
+chair.roll();
+
+// 12)
+// Noun: freezer
+// action 1: getCold
+freezer.getCold();
+// action 2: makeIce
+freezer.makeIce();
+// action 3: storeFood
+freezer.storeFood();
+
+// 13) 
+// Noun: dryingMachine
+// action 1: dryClothes
+dryingMachine.dryClothes();
+// action 2: getHot
+dryingMachine.getHot();
+// action 3: beep
+dryingMachine.beep();
+
 #endif
 
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
 
- Commit your changes by clicking on the Source Control panel on the left, entering a message, and click [Commit and push].
- 
- If you didn't already: 
+ Commit your changes by clicking on the Source Control panel on the left,
+ entering a message, and click [Commit and push].
+
+ If you didn't already:
     Make a pull request after you make your first commit
-    pin the pull request link and this repl.it link to our DM thread in a single message.
+    pin the pull request link and this repl.it link to our DM thread in a single
+ message.
 
  send me a DM to review your pull request when the project is ready for review.
 
@@ -150,8 +179,7 @@ glasses.help();
  */
 
 #include <iostream>
-int main()
-{
-    std::cout << "good to go" << std::endl;
-    return 0;
+int main() {
+  std::cout << "good to go" << std::endl;
+  return 0;
 }
