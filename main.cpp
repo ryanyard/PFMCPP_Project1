@@ -108,13 +108,13 @@ guitar.strum();
 //  action 3: practice
 guitar.practice();
 //  8)
-//  Noun: dishwasher
-//  action 1: clean
-dishwasher.clean();
-//  action 2: load
-dishwasher.load();
-//  action 3: unload
-dishwasher.unload();
+// Noun: dryingMachine
+// action 1: dryClothes
+dryingMachine.dryClothes();
+// action 2: getHot
+dryingMachine.getHot();
+// action 3: goBeep
+dryingMachine.goBeep();
 //  9)
 //  Noun: keyboard
 //  action 1: type
@@ -131,34 +131,6 @@ glasses.wear();
 glasses.clean();
 //  action 3: help
 glasses.help();
-
-
-// 11)
-// Noun: chair
-// action 1: swivel
-chair.swivel();
-// action 2: tilt
-chair.tilt();
-// action 3: roll
-chair.roll();
-
-// 12)
-// Noun: freezer
-// action 1: getCold
-freezer.getCold();
-// action 2: makeIce
-freezer.makeIce();
-// action 3: storeFood
-freezer.storeFood();
-
-// 13) 
-// Noun: dryingMachine
-// action 1: dryClothes
-dryingMachine.dryClothes();
-// action 2: getHot
-dryingMachine.getHot();
-// action 3: beep
-dryingMachine.beep();
 
 #endif
 
